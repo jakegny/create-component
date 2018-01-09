@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "create-story-component": "./index.js"
+    "create-component": "./index.js"
   },
   "dependencies": {
     "chalk": "^1.1.3",
