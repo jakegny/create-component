@@ -1,12 +1,13 @@
 {
-  "name": "create-story-component",
+  "name": "create-component",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jake Nylund",
   "license": "ISC",
   "bin": {
     "create-component": "./index.js"
